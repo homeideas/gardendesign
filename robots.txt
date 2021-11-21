@@ -17,4 +17,4 @@ User-agent: teoma
 
 Allow: /
 
-Sitemap: https://homeideas.github.app/gardendesign/sitemapx.xml
+Sitemap: https://homeideas.github.io/gardendesign/sitemapx.xml
